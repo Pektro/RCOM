@@ -17,4 +17,9 @@ Grade: 17.8/18
 
 	Terminal 2:
 	```./main /dev/ttyS1 tx <filename>```
+
+#Credits
+
+Francisco Câmara
+Pedro Duarte
  
